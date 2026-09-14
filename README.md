@@ -6,6 +6,9 @@
 D2FF00 LandoColor
 -->
 
+- 👩🏻‍💻 contributing at AI coding...
+
+![token usage](https://raw.githubusercontent.com/onlyucanconquertime/onlyucanconquertime/main/token-farm.svg)
 <!--
 **onlyucanconquertime/onlyucanconquertime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
