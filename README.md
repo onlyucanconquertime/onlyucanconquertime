@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&pause=1000&color=D2FF00&vCenter=true&width=435&lines=%F0%9F%8D%80+hiiii)](https://git.io/typing-svg)
 
+> *You cannot find peace by avoiding life.* 💫
 
 <!--
 D2FF00 LandoColor
