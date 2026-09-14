@@ -1,4 +1,4 @@
-## 🍀 Hiiiii
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=016783&center=true&vCenter=true&width=435&lines=%F0%9F%8D%80+Hiiiii)](https://git.io/typing-svg)
 
 <!--
 **onlyucanconquertime/onlyucanconquertime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
