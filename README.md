@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&pause=1000&color=D2FF00&vCenter=true&width=435&lines=%F0%9F%8D%80+hiiii)](https://git.io/typing-svg)
 
-// D2FF00 LandoColor
+
+<!--
+D2FF00 LandoColor
+-->
 
 <!--
 **onlyucanconquertime/onlyucanconquertime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
