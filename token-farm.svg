@@ -11,7 +11,7 @@ svg{--surface:#000000;--ink:#ffffff;--ink2:#bfbfbf;--muted:#7a7a7a;--grid:#23232
 <rect class="px" width="646" height="258" fill="var(--surface)"/>
 <rect class="px" x="1" y="1" width="644" height="256" fill="none" stroke="var(--axis)" stroke-width="2"/>
 <text class="t" x="56" y="24" font-size="15" font-weight="700" letter-spacing="2">DAILY TOKENS</text>
-<text class="t2" x="56" y="42" font-size="10.5">AUG 20, 2026 - SEP 18, 2026  ·  112.8M TOKENS OVER 30 DAYS  ·  3 ACTIVE  ·  1 BLOCK = 10M</text>
+<text class="t2" x="56" y="42" font-size="10.5">AUG 21, 2026 - SEP 19, 2026  ·  112.8M TOKENS OVER 30 DAYS  ·  3 ACTIVE  ·  1 BLOCK = 10M</text>
 <line class="grid" x1="56" y1="184" x2="620" y2="184"/>
 <text class="tm" x="48" y="187" font-size="9.5" text-anchor="end">50M</text>
 <line class="grid" x1="56" y1="144" x2="620" y2="144"/>
@@ -116,52 +116,52 @@ svg{--surface:#000000;--ink:#ffffff;--ink2:#bfbfbf;--muted:#7a7a7a;--grid:#23232
 <rect class="px" x="602" y="226" width="6" height="4" fill="var(--axis)"/>
 <rect class="px" x="608" y="226" width="6" height="4" fill="var(--grid)"/>
 <rect class="px" x="614" y="226" width="6" height="4" fill="var(--axis)"/>
-<text class="tm" x="62.5" y="242" font-size="8.5" text-anchor="middle">08/20</text>
-<text class="tm" x="157.5" y="242" font-size="8.5" text-anchor="middle">08/25</text>
-<text class="tm" x="252.5" y="242" font-size="8.5" text-anchor="middle">08/30</text>
-<text class="tm" x="347.5" y="242" font-size="8.5" text-anchor="middle">09/04</text>
-<text class="tm" x="442.5" y="242" font-size="8.5" text-anchor="middle">09/09</text>
+<text class="tm" x="62.5" y="242" font-size="8.5" text-anchor="middle">08/21</text>
+<text class="tm" x="157.5" y="242" font-size="8.5" text-anchor="middle">08/26</text>
+<text class="tm" x="252.5" y="242" font-size="8.5" text-anchor="middle">08/31</text>
+<text class="tm" x="347.5" y="242" font-size="8.5" text-anchor="middle">09/05</text>
+<text class="tm" x="442.5" y="242" font-size="8.5" text-anchor="middle">09/10</text>
 <g class="px" fill="var(--accent)" fill-opacity="1.0" stroke="#000000" stroke-opacity="0.35" stroke-width="1">
-<rect x="531" y="218" width="6" height="6"/>
-<rect x="538" y="218" width="6" height="6"/>
-<rect x="531" y="210" width="6" height="6"/>
-<rect x="538" y="210" width="6" height="6"/>
-<rect x="531" y="202" width="6" height="6"/>
-<rect x="538" y="202" width="6" height="6"/>
-<rect x="531" y="194" width="6" height="6"/>
-<rect x="538" y="194" width="6" height="6"/>
-<rect x="531" y="186" width="6" height="6"/>
-<rect x="538" y="186" width="6" height="6"/>
-<rect x="531" y="178" width="6" height="6"/>
-<rect x="538" y="178" width="6" height="6"/>
-<rect x="531" y="170" width="6" height="6"/>
-<rect x="538" y="170" width="6" height="6"/>
-<rect x="531" y="162" width="6" height="6"/>
-<rect x="538" y="162" width="6" height="6"/>
-<rect x="531" y="154" width="6" height="6"/>
-<rect x="538" y="154" width="6" height="6"/>
-<rect x="531" y="146" width="6" height="6"/>
-<rect x="538" y="146" width="6" height="6"/>
-<rect x="531" y="138" width="6" height="6"/>
-<rect x="538" y="138" width="6" height="6"/>
+<rect x="512" y="218" width="6" height="6"/>
+<rect x="519" y="218" width="6" height="6"/>
+<rect x="512" y="210" width="6" height="6"/>
+<rect x="519" y="210" width="6" height="6"/>
+<rect x="512" y="202" width="6" height="6"/>
+<rect x="519" y="202" width="6" height="6"/>
+<rect x="512" y="194" width="6" height="6"/>
+<rect x="519" y="194" width="6" height="6"/>
+<rect x="512" y="186" width="6" height="6"/>
+<rect x="519" y="186" width="6" height="6"/>
+<rect x="512" y="178" width="6" height="6"/>
+<rect x="519" y="178" width="6" height="6"/>
+<rect x="512" y="170" width="6" height="6"/>
+<rect x="519" y="170" width="6" height="6"/>
+<rect x="512" y="162" width="6" height="6"/>
+<rect x="519" y="162" width="6" height="6"/>
+<rect x="512" y="154" width="6" height="6"/>
+<rect x="519" y="154" width="6" height="6"/>
+<rect x="512" y="146" width="6" height="6"/>
+<rect x="519" y="146" width="6" height="6"/>
+<rect x="512" y="138" width="6" height="6"/>
+<rect x="519" y="138" width="6" height="6"/>
 </g>
 <g class="px" fill="var(--ink)">
-<rect x="536" y="131" width="2" height="2"/>
-<rect x="536" y="128" width="2" height="2"/>
-<rect x="536" y="134" width="2" height="2"/>
-<rect x="533" y="131" width="2" height="2"/>
-<rect x="539" y="131" width="2" height="2"/>
+<rect x="517" y="131" width="2" height="2"/>
+<rect x="517" y="128" width="2" height="2"/>
+<rect x="517" y="134" width="2" height="2"/>
+<rect x="514" y="131" width="2" height="2"/>
+<rect x="520" y="131" width="2" height="2"/>
 </g>
-<text class="tm" x="537.5" y="242" font-size="8.5" text-anchor="middle">09/14</text>
 <g class="px" fill="var(--accent)" fill-opacity="0.55" stroke="#000000" stroke-opacity="0.35" stroke-width="1">
-<rect x="550" y="218" width="6" height="6"/>
-<rect x="557" y="218" width="6" height="6"/>
+<rect x="531" y="218" width="6" height="6"/>
+<rect x="538" y="218" width="6" height="6"/>
 </g>
+<text class="tm" x="537.5" y="242" font-size="8.5" text-anchor="middle">09/15</text>
 <g class="px" fill="var(--accent)" fill-opacity="0.8" stroke="#000000" stroke-opacity="0.35" stroke-width="1">
-<rect x="588" y="218" width="6" height="6"/>
-<rect x="595" y="218" width="6" height="6"/>
+<rect x="569" y="218" width="6" height="6"/>
+<rect x="576" y="218" width="6" height="6"/>
 </g>
 <rect class="px" x="607" y="218" width="13" height="6" fill="var(--accent)" fill-opacity="0.18" stroke="var(--ink)" stroke-width="1" stroke-dasharray="2 2"/>
 <text class="t" x="613.5" y="204" font-size="9.5" font-weight="700" text-anchor="middle">0</text>
-<text class="tm" x="613.5" y="242" font-size="8.5" text-anchor="middle">09/18</text>
+<text class="tm" x="613.5" y="242" font-size="8.5" text-anchor="middle">09/19</text>
 </svg>
