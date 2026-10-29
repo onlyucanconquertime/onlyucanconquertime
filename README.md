@@ -1,14 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&pause=1000&color=D2FF00&vCenter=true&width=435&lines=%F0%9F%8D%80+hiiii)](https://git.io/typing-svg)
 
 > *You cannot find peace by avoiding life.* 💫
+> 👩🏻‍💻 contributing to finding my own path...
 
 <!--
 D2FF00 LandoColor
 -->
 
+<!--
 - 👩🏻‍💻 contributing at AI coding...
 
 ![token usage](https://raw.githubusercontent.com/onlyucanconquertime/onlyucanconquertime/main/token-farm.svg)
+
+-->
+
 <!--
 **onlyucanconquertime/onlyucanconquertime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
